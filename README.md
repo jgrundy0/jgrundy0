@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript/React/Python
 - 💞️ I’m looking to collaborate on various projects and teams
 - 📫 Send me and if you need to contact me
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to read various types of books and build warhammer miniatures. 
 
 <!---
